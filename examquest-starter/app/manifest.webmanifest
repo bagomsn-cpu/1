@@ -1,0 +1,9 @@
+{
+  "name": "ExamQuest \u2013 \u0415\u0413\u042d \u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430",
+  "short_name": "ExamQuest",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "icons": []
+}
